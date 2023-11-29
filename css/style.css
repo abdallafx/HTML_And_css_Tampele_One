@@ -90,6 +90,10 @@ body {
 /* start header  */
 .header {
     padding: 20px;
+    width: 100%;
+    position: fixed;
+    z-index: 4;
+    background-color: white;
 }
 .header .container {
     display: flex;
